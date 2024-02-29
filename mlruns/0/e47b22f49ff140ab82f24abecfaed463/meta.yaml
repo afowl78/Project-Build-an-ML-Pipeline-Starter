@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e47b22f49ff140ab82f24abecfaed463/artifacts
+end_time: 1709246906845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e47b22f49ff140ab82f24abecfaed463
+run_name: gregarious-cow-329
+run_uuid: e47b22f49ff140ab82f24abecfaed463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709246806817
+status: 3
+tags: []
+user_id: mlops

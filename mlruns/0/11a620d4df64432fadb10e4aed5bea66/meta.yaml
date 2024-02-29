@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/11a620d4df64432fadb10e4aed5bea66/artifacts
+end_time: 1709248110227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11a620d4df64432fadb10e4aed5bea66
+run_name: thoughtful-fly-916
+run_uuid: 11a620d4df64432fadb10e4aed5bea66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709248062725
+status: 3
+tags: []
+user_id: mlops
