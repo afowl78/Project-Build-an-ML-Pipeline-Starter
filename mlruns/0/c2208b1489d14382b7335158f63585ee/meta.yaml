@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c2208b1489d14382b7335158f63585ee/artifacts
+end_time: 1709256004695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2208b1489d14382b7335158f63585ee
+run_name: traveling-ox-4
+run_uuid: c2208b1489d14382b7335158f63585ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709255892176
+status: 4
+tags: []
+user_id: mlops

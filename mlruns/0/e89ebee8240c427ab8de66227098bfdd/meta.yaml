@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e89ebee8240c427ab8de66227098bfdd/artifacts
+end_time: 1709250508700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e89ebee8240c427ab8de66227098bfdd
+run_name: invincible-smelt-222
+run_uuid: e89ebee8240c427ab8de66227098bfdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709250458214
+status: 3
+tags: []
+user_id: mlops

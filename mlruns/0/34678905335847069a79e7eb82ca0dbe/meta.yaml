@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/34678905335847069a79e7eb82ca0dbe/artifacts
+end_time: 1709254239441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34678905335847069a79e7eb82ca0dbe
+run_name: nimble-bear-587
+run_uuid: 34678905335847069a79e7eb82ca0dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709254160027
+status: 3
+tags: []
+user_id: mlops

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/036afac4ec7d4b0caa71322da35e8919/artifacts
+end_time: 1709253197453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 036afac4ec7d4b0caa71322da35e8919
+run_name: gifted-mouse-444
+run_uuid: 036afac4ec7d4b0caa71322da35e8919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709253158575
+status: 4
+tags: []
+user_id: mlops

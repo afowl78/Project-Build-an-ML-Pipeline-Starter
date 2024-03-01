@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0863e78a059b4f79b9d5e7465b9f1105/artifacts
+end_time: 1709253028696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0863e78a059b4f79b9d5e7465b9f1105
+run_name: bemused-bee-672
+run_uuid: 0863e78a059b4f79b9d5e7465b9f1105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709253013232
+status: 4
+tags: []
+user_id: mlops

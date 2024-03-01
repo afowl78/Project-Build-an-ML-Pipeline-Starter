@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/960a1630a4884e038457c06ad00d4333/artifacts
+end_time: 1709252439460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 960a1630a4884e038457c06ad00d4333
+run_name: blushing-conch-698
+run_uuid: 960a1630a4884e038457c06ad00d4333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709252288623
+status: 4
+tags: []
+user_id: mlops

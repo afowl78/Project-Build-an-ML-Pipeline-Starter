@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eacdb237e3bc43358827a1ca3abdfe8c/artifacts
+end_time: 1709251145600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eacdb237e3bc43358827a1ca3abdfe8c
+run_name: victorious-conch-306
+run_uuid: eacdb237e3bc43358827a1ca3abdfe8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709251011263
+status: 3
+tags: []
+user_id: mlops

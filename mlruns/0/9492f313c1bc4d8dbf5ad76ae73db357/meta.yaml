@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9492f313c1bc4d8dbf5ad76ae73db357/artifacts
+end_time: 1709254399292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9492f313c1bc4d8dbf5ad76ae73db357
+run_name: carefree-lynx-811
+run_uuid: 9492f313c1bc4d8dbf5ad76ae73db357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709254298628
+status: 3
+tags: []
+user_id: mlops

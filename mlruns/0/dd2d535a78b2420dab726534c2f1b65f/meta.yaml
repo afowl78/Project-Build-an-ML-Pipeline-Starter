@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dd2d535a78b2420dab726534c2f1b65f/artifacts
+end_time: 1709256320945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd2d535a78b2420dab726534c2f1b65f
+run_name: secretive-goat-6
+run_uuid: dd2d535a78b2420dab726534c2f1b65f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709256302277
+status: 3
+tags: []
+user_id: mlops

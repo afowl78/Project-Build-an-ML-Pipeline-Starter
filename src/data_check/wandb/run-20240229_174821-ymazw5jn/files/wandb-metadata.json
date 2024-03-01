@@ -1,0 +1,92 @@
+{
+    "os": "Linux-6.5.0-21-generic-x86_64-with-glibc2.35",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-02-29T23:48:21.868289",
+    "startedAt": "2024-02-29T23:48:21.164475",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        ".",
+        "-vv",
+        "--csv",
+        "clean_sample.csv:latest",
+        "--ref",
+        "clean_sample.csv:reference",
+        "--kl_threshold",
+        "0.2",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/home/mlops/miniconda3/envs/mlflow-dc7c71f743fbdcbe02f2e4244a15aa3c40727cf0/bin/pytest",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/afowl78/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "08af3648eb512c96592a53c72c9c17ce2244c1c1"
+    },
+    "email": "aafowler78@gmail.com",
+    "root": "/home/mlops/Project-Build-an-ML-Pipeline-Starter",
+    "host": "mlops-Latitude-7390",
+    "username": "mlops",
+    "executable": "/home/mlops/miniconda3/envs/mlflow-dc7c71f743fbdcbe02f2e4244a15aa3c40727cf0/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1600.0621250000002,
+        "min": 400.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1600.011,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1600.988,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1600.458,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1599.768,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1600.24,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1600.001,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1600.013,
+            "min": 400.0,
+            "max": 3600.0
+        },
+        {
+            "current": 1600.458,
+            "min": 400.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 42.87392807006836,
+            "used": 27.07421112060547
+        }
+    },
+    "memory": {
+        "total": 15.470245361328125
+    }
+}

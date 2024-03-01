@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4eeb8d3b559e49668bc7153c5d680d06/artifacts
+end_time: 1709251145860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4eeb8d3b559e49668bc7153c5d680d06
+run_name: invincible-goose-65
+run_uuid: 4eeb8d3b559e49668bc7153c5d680d06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709251006611
+status: 3
+tags: []
+user_id: mlops

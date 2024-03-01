@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mlops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e7a1b1174ef14f8aa5690b2b33b61954/artifacts
+end_time: 1709254298390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7a1b1174ef14f8aa5690b2b33b61954
+run_name: magnificent-wasp-737
+run_uuid: e7a1b1174ef14f8aa5690b2b33b61954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709254239630
+status: 3
+tags: []
+user_id: mlops
